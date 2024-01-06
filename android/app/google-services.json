@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "380805618409",
+    "project_id": "mitch-sd",
+    "storage_bucket": "mitch-sd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380805618409:android:6d49f75b4ecbe06715ae78",
+        "android_client_info": {
+          "package_name": "com.example.mitch"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQM48H7A11p6P8Vt-Al9rGWGo4xGMpW4Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
